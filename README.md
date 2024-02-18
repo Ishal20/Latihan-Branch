@@ -1,2 +1,2 @@
 # Latihan-Branch
-Latihan Prakterk cara menggunakan branch di git
+# Ini adalah repository di branch DEVELOPMENT
